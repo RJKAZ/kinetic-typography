@@ -1,0 +1,23 @@
+{
+  "name": "kinetic-typography",
+  "version": "1.0.0",
+  "description": "Exparimenting with Three.js to create moving text",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/RJKAZ/kinetic-typography.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/RJKAZ/kinetic-typography/issues"
+  },
+  "homepage": "https://github.com/RJKAZ/kinetic-typography#readme",
+  "dependencies": {
+    "three": "^0.130.1"
+  }
+}
